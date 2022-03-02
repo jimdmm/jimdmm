@@ -20,5 +20,5 @@
   <a href="https://www.linkedin.com/in/jimdmm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <img align="right" height="200" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
