@@ -27,7 +27,4 @@
 
 👯‍♀️ Procuro colaborar em projetos grandes para adquirir conhecimento e experiências
 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" height="200" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</div>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
