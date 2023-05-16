@@ -10,7 +10,7 @@
 
 - 🧠 Estou aprendendo Python, Django, PHP e Laravel
 
-- 👯‍♀️ Procuro colaborar em projetos grandes para adquirir conhecimento e experiências
+- 👯‍♀️ Procuro colaborar em grandes projetos para adquirir conhecimento e experiências
 
 </p>
 
