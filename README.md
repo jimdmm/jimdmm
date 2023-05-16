@@ -20,7 +20,7 @@
 
 <br>
 <h2>Tecnologias e Ferramentas:</h2>
-<div align="center">
+<div align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -39,7 +39,7 @@
 
 <h2 align="left">Redes Sociais:</h3>
 
-<div align="center">
+<div align="left">
 
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jimdouglas.morrysonmiranda)
 [![Facebook](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jimdmm_/)
@@ -48,10 +48,7 @@
 </div>
 
 <br>
-<div style="display:flex; flex-direction: row;">
-  
+
 ![Jim GitHub stats](https://github-readme-stats.vercel.app/api?username=jimdmm&show_icons=true&theme=maroongold)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimdmm&theme=maroongold&card_width=470)](https://github.com/jimdmm/github-readme-stats)
-
-</div>
