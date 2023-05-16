@@ -37,9 +37,9 @@
 
 <br>
 
-<h2 align="center">Redes Sociais:</h3>
+<h2 align="left">Redes Sociais:</h3>
 
-<div>
+<div align="center">
 
 [![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jimdouglas.morrysonmiranda)
 [![Facebook](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jimdmm_/)
@@ -48,7 +48,7 @@
 </div>
 
 <br>
-<div align="center">
+<div style="display:flex;">
   
 ![Jim GitHub stats](https://github-readme-stats.vercel.app/api?username=jimdmm&show_icons=true&theme=maroongold)
 
