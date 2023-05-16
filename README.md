@@ -48,7 +48,7 @@
 </div>
 
 <br>
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-beetween;">
   
 ![Jim GitHub stats](https://github-readme-stats.vercel.app/api?username=jimdmm&show_icons=true&theme=maroongold)
 
