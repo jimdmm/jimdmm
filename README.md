@@ -47,7 +47,10 @@
 </div>
 
 <br>
-
+<div align="center">
+  
 ![Jim GitHub stats](https://github-readme-stats.vercel.app/api?username=jimdmm&show_icons=true&theme=maroongold)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimdmm&theme=maroongold&card_width=470)](https://github.com/jimdmm/github-readme-stats)
+
+</div>
