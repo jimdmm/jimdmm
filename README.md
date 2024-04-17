@@ -7,11 +7,9 @@
 
 <p>
 
-- 👩‍💻 Trabalho atualmente na Webhelp
+- 👩‍💻 Trabalho atualmente na Concentrix
 
-- 🧠 Estou aprendendo Python, Django, PHP e Laravel
-
-- 👯‍♀️ Procuro colaborar em grandes projetos para adquirir conhecimento e experiências
+- 👯‍♀️ Procuro colaborar em projetos para adquirir conhecimento e experiências
 
 </p>
 
